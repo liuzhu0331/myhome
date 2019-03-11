@@ -1,0 +1,26 @@
+.login-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    /* background-color: orange; */
+    /* overflow: hidden; */
+
+}
+.login-container .login-logo {
+    background-color: green;
+    height: 240px;
+    text-align: center;
+    line-height: 240px;
+
+}
+.login-container .login-form {
+    padding: 5px;
+}
+.login-container .login-third {
+    text-align: center;
+}
+.login-container .login-third i {
+    margin: 0 15px;
+}
